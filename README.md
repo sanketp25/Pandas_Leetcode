@@ -5,51 +5,51 @@ The problems are divided into these sections:
 
 Data Filtering:
 
-Big Countries
-Recyclable and Low Fat Products
-Customers Who Never Order
-Article Views I
+Big Countries,
+Recyclable and Low Fat Products,
+Customers Who Never Order,
+Article Views I,
 
 ----------------------------------------------------------------------------
 String Methods:
 
-Invalid Tweets
-Calculate Special Bonus
-Fix Names in a Table
-Find Users With Valid E-Mails
-Patients With a Condition
+Invalid Tweets,
+Calculate Special Bonus,
+Fix Names in a Table,
+Find Users With Valid E-Mails,
+Patients With a Condition,
 
 ----------------------------------------------------------------------------
 
 Data Manipulation:
 
-Nth Highest Salary
-Second Highest Salary
-Department Highest Salary
-Rank Scores
-Delete Duplicate Emails
-Rearrange Products Table
+Nth Highest Salary,
+Second Highest Salary,
+Department Highest Salary,
+Rank Scores,
+Delete Duplicate Emails,
+Rearrange Products Table,
 
 ----------------------------------------------------------------------------
 
 
 Statistics:
 
-The Number of Rich Customers
-Immediate Food Delivery I
-Count Salary Categories
+The Number of Rich Customers,
+Immediate Food Delivery I,
+Count Salary Categories,
 
 ----------------------------------------------------------------------------
 
 
 Data Aggregation:
 
-Find Total Time Spent by Each Employee
-Game Play Analysis I
-Number of Unique Subjects Taught by Each Teacher
-Classes More Than 5 Students
-Customer Placing the Largest Number of Orders
-Group Sold Products By The Date
+Find Total Time Spent by Each Employee,
+Game Play Analysis I,
+Number of Unique Subjects Taught by Each Teacher,
+Classes More Than 5 Students,
+Customer Placing the Largest Number of Orders,
+Group Sold Products By The Date,
 Daily Leads and Partners
 
 
